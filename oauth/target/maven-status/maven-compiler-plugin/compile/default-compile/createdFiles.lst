@@ -1,0 +1,5 @@
+ch/cyberduck/core/oauth/OAuth2AuthorizationService$Tokens.class
+ch/cyberduck/core/oauth/OAuth2AuthorizationService$SavingCredentialRefreshListener.class
+ch/cyberduck/core/oauth/OAuth2AuthorizationService$OAuthExceptionMappingService.class
+ch/cyberduck/core/oauth/OAuth2AuthorizationService.class
+ch/cyberduck/core/oauth/OAuth2AuthorizationService$1.class

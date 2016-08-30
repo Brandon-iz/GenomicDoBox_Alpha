@@ -1,0 +1,9 @@
+ch/cyberduck/core/bonjour/AbstractRendezvous.class
+ch/cyberduck/core/bonjour/DisabledRendezvous.class
+ch/cyberduck/core/bonjour/Rendezvous.class
+ch/cyberduck/core/bonjour/RendezvousFactory.class
+ch/cyberduck/core/bonjour/RendezvousListener.class
+ch/cyberduck/core/bonjour/LimitedRendezvousListener.class
+ch/cyberduck/core/bonjour/RendezvousCollection.class
+ch/cyberduck/core/bonjour/RendezvousResponder.class
+ch/cyberduck/core/bonjour/NotificationRendezvousListener.class

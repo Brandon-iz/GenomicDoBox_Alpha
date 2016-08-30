@@ -1,0 +1,14 @@
+ch/cyberduck/core/spectra/SpectraSession.class
+ch/cyberduck/core/spectra/SpectraBulkService$1.class
+ch/cyberduck/core/spectra/SpectraTouchFeature.class
+ch/cyberduck/core/spectra/SpectraUploadFeature.class
+ch/cyberduck/core/spectra/SpectraProtocol.class
+ch/cyberduck/core/spectra/SpectraDeleteFeature.class
+ch/cyberduck/core/spectra/SpectraClientBuilder.class
+ch/cyberduck/core/spectra/SpectraDirectoryFeature.class
+ch/cyberduck/core/spectra/SpectraWriteFeature$1.class
+ch/cyberduck/core/spectra/SpectraExceptionMappingService.class
+ch/cyberduck/core/spectra/SpectraReadFeature.class
+ch/cyberduck/core/spectra/SpectraWriteFeature.class
+ch/cyberduck/core/spectra/SpectraBulkService.class
+ch/cyberduck/core/spectra/SpectraClientBuilder$1.class

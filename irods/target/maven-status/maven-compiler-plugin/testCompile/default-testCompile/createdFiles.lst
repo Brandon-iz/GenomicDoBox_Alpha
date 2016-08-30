@@ -1,0 +1,17 @@
+ch/cyberduck/core/irods/IRODSUploadFeatureTest$1.class
+ch/cyberduck/core/irods/IRODSCopyFeatureTest.class
+ch/cyberduck/core/irods/IRODSExceptionMappingServiceTest.class
+ch/cyberduck/core/irods/IRODSListServiceTest.class
+ch/cyberduck/core/irods/IRODSProtocolTest$1.class
+ch/cyberduck/core/irods/IRODSProtocolTest.class
+ch/cyberduck/core/irods/IRODSDeleteFeatureTest.class
+ch/cyberduck/core/irods/IRODSMoveFeatureTest.class
+ch/cyberduck/core/irods/IRODSProtocolTest$2.class
+ch/cyberduck/core/irods/IRODSReadFeatureTest.class
+ch/cyberduck/core/irods/IRODSFindFeatureTest.class
+ch/cyberduck/core/irods/IRODSSessionTest.class
+ch/cyberduck/core/irods/IRODSDirectoryFeatureTest.class
+ch/cyberduck/core/irods/IRODSWriteFeatureTest.class
+ch/cyberduck/core/irods/IRODSAttributesFeatureTest.class
+ch/cyberduck/core/irods/IRODSTouchFeatureTest.class
+ch/cyberduck/core/irods/IRODSUploadFeatureTest.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <property name="home" value="${main.basedir}"/>
+  <property name="version" value="5.2.0-SNAPSHOT"/>
+  <property name="revision" value="${git.commitsCount}"/>
+  <property name="git.revision" value="${git.revision}"/>
+  <property name="sparkle.feed" value="${sparkle.feed}"/>
+  <ant antfile="/Users/izbrandon/Documents/GenomicDoBox/core/dylib/build.xml" dir="." target="build"/>
+</target>
+</project>

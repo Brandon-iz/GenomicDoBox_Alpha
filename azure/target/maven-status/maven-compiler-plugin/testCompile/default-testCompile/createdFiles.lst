@@ -1,0 +1,15 @@
+ch/cyberduck/core/azure/AzureMetadataFeatureTest.class
+ch/cyberduck/core/azure/AzureUrlProviderTest.class
+ch/cyberduck/core/azure/AzureCopyFeatureTest.class
+ch/cyberduck/core/azure/AzureObjectListServiceTest.class
+ch/cyberduck/core/azure/AzureSessionTest.class
+ch/cyberduck/core/azure/AzureSessionTest$2.class
+ch/cyberduck/core/azure/AzureDirectoryFeatureTest.class
+ch/cyberduck/core/azure/AzureDeleteFeatureTest.class
+ch/cyberduck/core/azure/AzureAclPermissionFeatureTest.class
+ch/cyberduck/core/azure/AzureAttributesFeatureTest.class
+ch/cyberduck/core/azure/AzureLoggingFeatureTest.class
+ch/cyberduck/core/azure/AzureMoveFeatureTest.class
+ch/cyberduck/core/azure/AzureWriteFeatureTest.class
+ch/cyberduck/core/azure/AzureSessionTest$1.class
+ch/cyberduck/core/azure/AzureReadFeatureTest.class

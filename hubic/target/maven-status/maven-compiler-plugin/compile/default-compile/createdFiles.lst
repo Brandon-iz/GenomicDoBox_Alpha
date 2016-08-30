@@ -1,0 +1,4 @@
+ch/cyberduck/core/hubic/HubicSession.class
+ch/cyberduck/core/hubic/HubicAuthenticationRequest.class
+ch/cyberduck/core/hubic/HubicAuthenticationResponseHandler.class
+ch/cyberduck/core/hubic/HubicProtocol.class
